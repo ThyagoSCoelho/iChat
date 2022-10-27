@@ -1,0 +1,15 @@
+{
+  "user": [ 
+    {
+      "user": "Thyago",
+      "email": "thystockler@gmail.com"
+    }
+  ],
+  "messages": [
+    {
+      "sender": "Thyago",
+      "sender_email": "thystockler@gmail.com",
+      "message": "Hello World"
+    }
+  ]
+}
